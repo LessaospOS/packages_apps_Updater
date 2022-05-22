@@ -41,7 +41,7 @@
                     android:layout_height="170dp"
                     android:adjustViewBounds="true"
                     android:layout_centerHorizontal="true"
-                    android:src="@drawable/ic_header" />
+                    android:src="@drawable/home" />
 
                 <TextView
                     android:id="@+id/header_title"
